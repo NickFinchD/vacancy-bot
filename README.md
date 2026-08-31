@@ -21,7 +21,7 @@
 pip install -r requirements.txt
 
 export BOT_TOKEN=токен_от_BotFather
-export HH_USER_AGENT="vacancy-bot/1.0 (github.com/ТВОЙ_ЛОГИН/vacancy-bot)"
+export HH_USER_AGENT="vacancy-bot/1.0 (github.com/NickFinchD/vacancy-bot)"
 python -m bot.main
 ```
 
